@@ -11,8 +11,8 @@ Sou um profissional determinado e comprometido com prazos, apaixonado por desenv
 
 # 🧰 Languages and Tools:
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma" />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" /> 
+  <img src="https://skillicons.dev/icons?i=js,html,css,react" />
+  <img src="https://skillicons.dev/icons?i=vscode" /> 
 
 # 📊 GitHub Stats:
 <div align="center">
