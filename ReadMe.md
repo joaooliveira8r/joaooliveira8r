@@ -9,19 +9,13 @@ Sou um profissional determinado e comprometido com prazos, apaixonado por desenv
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-pedro-oliveira-8a1684262) 
  [![Email](https://img.shields.io/badge/Email-6D6D6D?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20)](mailto:jpramiro5@gmail.com)
 
-# 🧰 Tech Stack:
+# 🧰 Languages and Tools:
 <div align="left">
 <div align="center">
-  
-### 🌈 Front-End
-<img src="https://skillicons.dev/icons?i=html,css,js,react,figma" />
-
-### ⚙️ Ferramentas
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
-
-
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
