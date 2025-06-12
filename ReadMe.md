@@ -8,6 +8,7 @@ Sou um profissional determinado e comprometido com prazos, apaixonado por desenv
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-pedro-oliveira-8a1684262) 
  [![Email](https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpramiro5@gmail.com)
+[![Email](https://img.shields.io/badge/Email-6D6D6D?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20)](mailto:jpramiro5@gmail.com)
 
 # 🧰 Tech Stack:
 <div align="left">
