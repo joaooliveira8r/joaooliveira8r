@@ -1,4 +1,4 @@
-**João Pedro Oliveira**
+#João Pedro Oliveira
 
 **🎓 Estudante de Front-End | JavaScript | HTML | CSS | React**  
 📍 São Paulo, Brasil | 🎯 Buscando estágio/oportunidades<br>
