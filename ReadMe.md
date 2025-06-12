@@ -14,15 +14,12 @@ Sou um profissional determinado e comprometido com prazos, apaixonado por desenv
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">  
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">    
 </div>  
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username= joaooliveira8r&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user= joaooliveira8r&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username= joaooliveira8r&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id= joaooliveira8r&icon=9&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaooliveira8r&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true" alt="Estatísticas">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaooliveira8r&theme=midnight-purple&hide_border=true&layout=compact&exclude_repo=repositorio-python" alt="Linguagens">
+</div>
 
 
 🌐 **Connect with me**:
