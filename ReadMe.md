@@ -1,4 +1,4 @@
-# João Pedro
+# Olá me chamo João Pedro
 
 **🎓 Estudante de Front-End | JavaScript | HTML | CSS | React**  
 📍 São Paulo, Brasil | 🎯 Buscando estágio/oportunidades<br>
@@ -6,7 +6,7 @@
 Sou um profissional determinado e comprometido com prazos, apaixonado por desenvolvimento front-end. Como estudante dedicado à tecnologia, busco aplicar meus conhecimentos em **HTML, CSS e JavaScript**, aprimorando minhas habilidades em frameworks como **React** para criar interfaces intuitivas e modernas. Estou aberto a novas oportunidades de aprendizado e desafios que impulsionem minha carreira.
 
 ## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-pedro-oliveira-8a1684262) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-pedro-oliveira-8a1684262) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jpramiro5@gmail.com)
 
 # 🧰 Tech Stack:
 <div align="left">
