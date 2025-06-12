@@ -7,7 +7,13 @@ Sou um profissional determinado e comprometido com prazos, apaixonado por desenv
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@joaooliveira8r) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/joão-pedro-oliveira-8a1684262) 
 
-# 💻 Tech Stack:
+# 🧰 Tech Stack:
+
+ | HTML5 | CSS3 | JavaScript | React |
+  |---|---|---|---|
+  | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"> | <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"> | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"> | <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"> |
+
+
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
